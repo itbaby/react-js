@@ -1,4 +1,4 @@
-
+import React from 'react';
 
 function HOCExample(WrappedComponent) {
   return function(props) {
